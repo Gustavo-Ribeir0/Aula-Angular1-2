@@ -1,0 +1,40 @@
+.content {
+  margin: 50px auto;
+  width: 40%;
+  min-height: 70vh;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  box-shadow: 8px 8px 8px #ddd;
+}
+
+.menu{
+height: 6vh;
+width: 100%;
+border-bottom: 1px solid #ddd;
+}
+
+.header {
+  border-radius: 3px;
+  margin-bottom: 5vh;
+  height: 40vh;
+  background-color: rgb(194, 194, 194);
+  border: 1px solid #ddd;
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  width: 100%;
+}
+
+.senha {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  width: 100%;
+}

@@ -1,0 +1,17 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+.senhaInput{
+    font-size: 16px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    }
+    
+    .senhaInput:focus{
+    outline: none;
+    }
+
+    .senha{
+    font-size: 14px;
+    }

@@ -1,0 +1,17 @@
+*{
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.loginInput{
+font-size: 16px;
+border: none;
+border-bottom: 1px solid #ddd;
+}
+
+.loginInput:focus{
+outline: none;
+}
+
+.login{
+font-size: 14px;
+}

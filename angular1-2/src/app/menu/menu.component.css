@@ -1,0 +1,11 @@
+.lista li{
+list-style: none;    
+}
+
+.lista li a{
+padding: 16px;
+}
+
+.lista{
+display: flex;
+}
